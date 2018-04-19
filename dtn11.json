@@ -1,0 +1,16 @@
+{
+	"id": "dtn11",
+	"question": "Does your project require coordination of multiple simultaneous disparate project elements intertwined throughout your existing operating facility with priority on uninterrupted operations during construction?",
+	"description": "<p>For instance, your core team may not have significant experience and  manpower to address a single compact project within your existing facility, but not have sufficient manpower and experience with simultaneous projects interspersed within your existing project footprint. Example: NY Transportation Development Corporation LaGuardia Airport Redevelopment P3.</p>",
+	"answers": [
+
+		{
+			"text": "Yes",
+			"target": "dtn111"
+		},
+		{
+			"text": "No",
+			"target": "dtn112"
+		}
+	]
+}
