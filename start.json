@@ -1,0 +1,17 @@
+{
+	"id": "start",
+	"question": "Does this project have technical complexity beyond your governmental entity’s core competency areas?",
+	"description": "<p>For instance, your core team may be expert at designing and building roads and bridges above grade, but do not have the in-house geotechnical expertise with building and operating underwater tunnels in porous limestone. Example: Florida DOT’s Port of Miami P3 Tunnel Project.</p>",
+	"answers": [
+
+		{
+			"text": "Yes",
+			"target": "dtn1"
+		},
+		
+		{
+			"text": "No",
+			"target": "dtn2"
+		}
+	]
+}
