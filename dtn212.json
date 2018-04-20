@@ -1,16 +1,16 @@
 {
-	"id": "dtn3",
-	"question": "Once your infrastructure project is completed, will the operations of this infrastructure be technically challenging; will it fall outside the current expertise of your team; or do you not want to staff up a new operations team?",
-	"description": "<p>For instance, your government entity has municipalized a private utility system that requires significant technically challenging new capital improvements that you would rather an experienced vendor handle.  Example: South Martin Regional Utility’s acquisition and merger of two private water utilities and simultaneous O&M P3.</p>",
+	"id": "dtn212",
+	"question": "Is a referendum or voter approval required before you can issue financing for the project that you expect will not pass? (i.e., Will voters reject this?)",
+	"description": "<p>If you must hold a referendum or otherwise obtain voter approval before you can issue financing for your project, you may have a concern that the voters will reject your project financing (even if the project has overall benefit to the community).  In this instance, you may wish to shift the financing burden to the private sector which would not trigger the voter approval requirement.</p>",
 	"answers": [
 
 		{
 			"text": "Yes",
-			"target": "anode3"
+			"target": "dtn2121"
 		},
 		{
 			"text": "No",
-			"target": "anode2"
+			"target": "dtn2122"
 		}
 	]
 }

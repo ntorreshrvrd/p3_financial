@@ -1,7 +1,7 @@
 {
-	"id": "dtn2",
-	"question": "Does your project require coordination of multiple simultaneous disparate project elements intertwined throughout your existing operating facility with priority on uninterrupted operations during construction?",
-	"description": "<p>For instance, your core team may not have significant experience and  manpower to address a single compact project within your existing facility, but not have sufficient manpower and experience with simultaneous projects interspersed within your existing project footprint. Example: NY Transportation Development Corporation LaGuardia Airport Redevelopment P3.</p>",
+	"id": "dtn12",
+	"question": "Do you have a demand risk concern for the project?",
+	"description": "<p>Demand risk is a “Field of Dreams” question:  if you build it will they come?  If the infrastructure service you provide does not face competition, such as a potable water utility which are natural monopolies, you likely will not have a concern that alternative service providers will siphon off the customer demand you need to fund your project.  But, if your project would have competition and ready alternatives to use of your project’s services, then there is demand uncertainty and a risk that the alternatives will siphon off your customer demand to an extent that insufficient revenues will be generated to pay the debt issued to fund the project.  A good example of a project with high demand risk would be tolling an new express lane on a freeway (drivers could choose to use the free lanes or switch to alternative freeways or surface streets instead of paying the toll). You may wish to shift this risk to the private sector who may be better able to analyze and manage the risk.</p>",
 	"answers": [
 
 		{

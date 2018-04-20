@@ -1,7 +1,7 @@
 {
 	"id": "dtn2",
-	"question": "Will your project require specialized or nascent infrastructure technology with a limited set of vendors/providers?",
-	"description": "<p>For instance, your team may have significant experience with surface water treatment technologies, but no experience with large scale new ocean desalination technology. Example: San Diego County Water Authority P3 Desalination Project with Poseidon Resources.</p>",
+	"question": "Do you have a low bond rating, or are you concerned that adding additional debt to your balance sheet will raise your cost of capital beyond acceptable limits or negatively impact the availability and cost of your other governmental borrowing needs?",
+	"description": "<p>Buyers in the municipal bond markets determine your cost of capital for a project based upon your “bond rating”. Bond rating organizations, independent financial market analyst’s evaluation of your entity’s financial risk profile, evaluate the likelihood of investors interested in financing your project receiving a return of and return on their bond investment. A poor bond rating will lower demand for your financing and increase your cost of capital reflecting the perceived market risk of your ability to repay your debt. If your debt rating is too low, there might not be any market players willing to lend you money.  Maintaining your current bond rating may also impact your project financing decision.  A primary focus on this question is how the bond ratings agencies will view your issuance of additional debt for your project, i.e., will they lower your bond rating based on your existing debt load, which will increase your cost of capital for this project and all other entity borrowing needs.  Your municipal financial adviser will be an important player in analyzing this question and formulating your answer.</p>",
 	"answers": [
 
 		{

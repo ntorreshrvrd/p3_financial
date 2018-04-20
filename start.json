@@ -1,7 +1,7 @@
 {
 	"id": "start",
-	"question": "Does this project have technical complexity beyond your governmental entity’s core competency areas?",
-	"description": "<p>For instance, your core team may be expert at designing and building roads and bridges above grade, but do not have the in-house geotechnical expertise with building and operating underwater tunnels in porous limestone. Example: Florida DOT’s Port of Miami P3 Tunnel Project.</p>",
+	"question": "Do you have structural or practical limits on your borrowing capacity that this project would exceed?",
+	"description": "<p>Is there a constitutional or statutory restriction on your ability to borrow money for your project? Do you have a charter provision restricting your borrowing capacity on this type of project? Do you have an existing bond resolution covenant preventing or imposing unacceptable limitations on your issuance of additional bonds for the project?</p>",
 	"answers": [
 
 		{
