@@ -6,11 +6,11 @@
 
 		{
 			"text": "Yes",
-			"target": "anode3"
+			"target": "dtn2221"
 		},
 		{
 			"text": "No",
-			"target": "anode4"
+			"target": "dtn2222"
 		}
 	]
 }
