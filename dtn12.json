@@ -6,11 +6,11 @@
 
 		{
 			"text": "Yes",
-			"target": "dtn21"
+			"target": "dtn121"
 		},
 		{
 			"text": "No",
-			"target": "dtn22"
+			"target": "dtn122"
 		}
 	]
 }
